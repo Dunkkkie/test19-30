@@ -57,3 +57,8 @@ ul {
     width: 50px;
     margin: 50px;
 }
+
+.main {
+    height: 100vh;
+    background: purple;
+}
